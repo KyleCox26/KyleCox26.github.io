@@ -7,4 +7,4 @@
   -Skating <br>
   -Vehicles <br>
 ## This is where I'm from <br>
-![IDAHO](KyleCox26.github.io/images/idahoFlag.png)
+![IDAHO](/images/idahoFlag.png)
